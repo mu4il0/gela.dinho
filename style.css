@@ -1,0 +1,30 @@
+body {
+background-color: rgba(9, 196, 243, 0.849);
+}
+
+img #imagem1 {
+    width: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+}
+table {
+    background-color: azure;
+}
+h1 {
+text-align: center;
+font-size: 500%;
+font-weight: 600;
+}
+h2{
+    font-size: 250%;
+}
+p {
+    font-size: 150%;
+}
+img #imagem2 {
+    width: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+}
